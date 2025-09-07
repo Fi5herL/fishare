@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/share/2025-ppt-party-share/"}
 ---
 
-[2025 福音聚會 最喜愛的召會生活 - Presentation](https://www.canva.com/design/DAGyL14pFqs/wo5oJg-doX_F2dehwb2USw/view)
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
